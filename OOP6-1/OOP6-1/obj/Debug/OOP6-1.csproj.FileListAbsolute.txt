@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\GitHub\OOP6-1\OOP6-1\bin\Debug\OOP6-1.exe.config
+C:\Users\Asus\Desktop\GitHub\OOP6-1\OOP6-1\bin\Debug\OOP6-1.exe
+C:\Users\Asus\Desktop\GitHub\OOP6-1\OOP6-1\bin\Debug\OOP6-1.pdb
+C:\Users\Asus\Desktop\GitHub\OOP6-1\OOP6-1\obj\Debug\OOP6-1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GitHub\OOP6-1\OOP6-1\obj\Debug\OOP6-1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GitHub\OOP6-1\OOP6-1\obj\Debug\OOP6-1.exe
+C:\Users\Asus\Desktop\GitHub\OOP6-1\OOP6-1\obj\Debug\OOP6-1.pdb
+C:\Users\stepa\Desktop\Новая папка\OOP6-1-master\OOP6-1\bin\Debug\OOP6-1.exe.config
+C:\Users\stepa\Desktop\Новая папка\OOP6-1-master\OOP6-1\bin\Debug\OOP6-1.exe
+C:\Users\stepa\Desktop\Новая папка\OOP6-1-master\OOP6-1\bin\Debug\OOP6-1.pdb
+C:\Users\stepa\Desktop\Новая папка\OOP6-1-master\OOP6-1\obj\Debug\OOP6-1.csprojAssemblyReference.cache
+C:\Users\stepa\Desktop\Новая папка\OOP6-1-master\OOP6-1\obj\Debug\OOP6-1.exe
+C:\Users\stepa\Desktop\Новая папка\OOP6-1-master\OOP6-1\obj\Debug\OOP6-1.pdb

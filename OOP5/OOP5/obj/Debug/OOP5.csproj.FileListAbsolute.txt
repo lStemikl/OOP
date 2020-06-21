@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\GitHub\OOP5\OOP5\bin\Debug\OOP5.exe.config
+C:\Users\Asus\Desktop\GitHub\OOP5\OOP5\bin\Debug\OOP5.exe
+C:\Users\Asus\Desktop\GitHub\OOP5\OOP5\bin\Debug\OOP5.pdb
+C:\Users\Asus\Desktop\GitHub\OOP5\OOP5\obj\Debug\OOP5.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GitHub\OOP5\OOP5\obj\Debug\OOP5.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GitHub\OOP5\OOP5\obj\Debug\OOP5.exe
+C:\Users\Asus\Desktop\GitHub\OOP5\OOP5\obj\Debug\OOP5.pdb
+C:\Users\stepa\Desktop\Новая папка\OOP5-master\OOP5\bin\Debug\OOP5.exe.config
+C:\Users\stepa\Desktop\Новая папка\OOP5-master\OOP5\bin\Debug\OOP5.exe
+C:\Users\stepa\Desktop\Новая папка\OOP5-master\OOP5\bin\Debug\OOP5.pdb
+C:\Users\stepa\Desktop\Новая папка\OOP5-master\OOP5\obj\Debug\OOP5.csprojAssemblyReference.cache
+C:\Users\stepa\Desktop\Новая папка\OOP5-master\OOP5\obj\Debug\OOP5.exe
+C:\Users\stepa\Desktop\Новая папка\OOP5-master\OOP5\obj\Debug\OOP5.pdb

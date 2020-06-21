@@ -1,0 +1,13 @@
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП\ООП\bin\Debug\ООП.exe.config
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП\ООП\bin\Debug\ООП.exe
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП\ООП\bin\Debug\ООП.pdb
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП\ООП\obj\Debug\ООП.csprojAssemblyReference.cache
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП\ООП\obj\Debug\ООП.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП\ООП\obj\Debug\ООП.exe
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП\ООП\obj\Debug\ООП.pdb
+C:\Users\stepa\Desktop\Новая папка\OOP1-1-master\ООП\bin\Debug\ООП.exe.config
+C:\Users\stepa\Desktop\Новая папка\OOP1-1-master\ООП\bin\Debug\ООП.exe
+C:\Users\stepa\Desktop\Новая папка\OOP1-1-master\ООП\bin\Debug\ООП.pdb
+C:\Users\stepa\Desktop\Новая папка\OOP1-1-master\ООП\obj\Debug\ООП.csprojAssemblyReference.cache
+C:\Users\stepa\Desktop\Новая папка\OOP1-1-master\ООП\obj\Debug\ООП.exe
+C:\Users\stepa\Desktop\Новая папка\OOP1-1-master\ООП\obj\Debug\ООП.pdb
